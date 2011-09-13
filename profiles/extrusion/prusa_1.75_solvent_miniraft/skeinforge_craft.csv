@@ -1,7 +1,7 @@
 Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
-Open File for Craft	C:/Users/quoth/Downloads/tentacle.stl
+Open File for Craft	C:/Users/quoth/Downloads/gregs-x-carriage.stl
 bottom	False
 carve	False
 chamber	False
