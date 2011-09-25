@@ -4,7 +4,7 @@ WindowPosition	600+0
 Open File for Analyze	
 comment	False
 interpret	False
-skeiniso	True
+skeiniso	False
 skeinlayer	False
 statistic	False
-vectorwrite	False
+vectorwrite	True
