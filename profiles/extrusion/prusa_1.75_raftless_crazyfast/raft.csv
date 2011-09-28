@@ -23,8 +23,8 @@ Name of Support Start File:	support_start.gcode
 Object First Layer Feed Rate Infill Multiplier (ratio):	0.2
 Object First Layer Feed Rate Perimeter Multiplier (ratio):	0.2
 Object First Layer Flow Rate Infill Multiplier (ratio):	0.2
-Object First Layer Flow Rate Perimeter Multiplier (ratio):	1.0
-Operating Nozzle Lift over Layer Thickness (ratio):	1.0
+Object First Layer Flow Rate Perimeter Multiplier (ratio):	0.6
+Operating Nozzle Lift over Layer Thickness (ratio):	0.5
 Raft Additional Margin over Length (%):	0.5
 Raft Margin (mm):	1.0
 Support Cross Hatch	False

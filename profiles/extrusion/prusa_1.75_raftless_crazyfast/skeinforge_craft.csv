@@ -1,9 +1,9 @@
 Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
-Open File for Craft	Z:/reprap_parts/lambda mendel/pulley_supported_t5-10.STL
-bottom	False
-carve	True
+Open File for Craft	Z:/reprap_parts/lambda mendel/simple_skate_idler.STL
+bottom	True
+carve	False
 chamber	False
 chop	False
 cleave	False
