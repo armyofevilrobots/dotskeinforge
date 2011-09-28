@@ -2,7 +2,7 @@ Format is tab separated fill settings.
 _Name                          	Value
 WindowPosition	700+0
 Open File for Fill	
-Activate Fill:	True
+Activate Fill:	False
 Diaphragm Period (layers):	100
 Diaphragm Thickness (layers):	0
 Extra Shells on Alternating Solid Layer (layers):	2
@@ -22,7 +22,7 @@ Grid Rectangular	False
 Line	True
 Infill Perimeter Overlap (ratio):	0.1
 Infill Solidity (ratio):	0.3
-Infill Width over Thickness (ratio):	1.6
+Infill Width over Thickness (ratio):	1.55
 Solid Surface Thickness (layers):	3
 Lower Left	True
 Nearest	False

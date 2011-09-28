@@ -8,5 +8,5 @@ Relative Extrusion Distance	False
 Extruder Retraction Speed (mm/s):	15.0
 Filament Diameter (mm):	1.77
 Filament Packing Density (ratio):	1.0
-Retraction Distance (millimeters):	1.1
+Retraction Distance (millimeters):	0.35
 Restart Extra Distance (millimeters):	0.0
