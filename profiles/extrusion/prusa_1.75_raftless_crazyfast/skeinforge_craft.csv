@@ -1,7 +1,8 @@
 Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
-Open File for Craft	C:/Users/quoth/Downloads/Yoda-Lite.stl
+Open File for Craft	C:/Users/quoth/Downloads/armband01.stl
+bookend	False
 bottom	False
 carve	False
 chamber	False
@@ -15,7 +16,7 @@ dimension	False
 drill	False
 export	False
 feed	False
-fill	True
+fill	False
 fillet	False
 flow	False
 home	False
@@ -30,8 +31,9 @@ multiply	False
 oozebane	False
 outset	False
 preface	False
-raft	False
+raft	True
 scale	False
+skin	False
 skirt	False
 speed	False
 splodge	False
